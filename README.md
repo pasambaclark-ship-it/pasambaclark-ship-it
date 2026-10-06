@@ -1,7 +1,7 @@
 # `>_` Clark Pasamba
 
 <p align="center">
-  <img src="cyber-terminal.svg" alt="Animated 3D-style neon hooded cyber sentinel with cascading binary and a scanning visor" width="100%">
+  <img src="cyber-terminal-3d.svg" alt="Animated 3D-style neon hooded cyber sentinel with cascading binary and a scanning visor" width="100%">
 </p>
 
 <p align="center">
@@ -86,13 +86,13 @@ When I’m away from code, I enjoy **video editing** and **graphic design**. I a
   <img src="https://streak-stats.demolab.com?user=pasambaclark-ship-it&hide_border=true&background=0D1117&ring=00F5A0&fire=62D9FF&currStreakLabel=00F5A0&sideLabels=C9D1D9&dates=73818D" alt="GitHub contribution streak">
 </p>
 
-## `08` &nbsp; Live Contribution Terrain
+## `08` &nbsp; 3D Contribution Matrix
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-cyber.svg" alt="3D cyber-themed graph generated from my GitHub contribution history" width="100%">
+  <img src="profile-3d-contrib/profile-cyber.svg" alt="Animated 3D cyber-themed graph generated from my GitHub contribution history" width="82%">
 </p>
 
-<p align="center"><sub>Real GitHub contribution activity · refreshed daily by GitHub Actions</sub></p>
+<p align="center"><sub>REAL CONTRIBUTIONS &nbsp;·&nbsp; NEON DEFENDER PALETTE &nbsp;·&nbsp; AUTO-REFRESHED</sub></p>
 
 <p align="center">
   <sub><code>SESSION ACTIVE</code> &nbsp;·&nbsp; Curiosity is the entry point. Responsible learning is the protocol.</sub>
