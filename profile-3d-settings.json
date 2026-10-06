@@ -1,0 +1,14 @@
+{
+  "type": "rainbow",
+  "fileName": "profile-cyber.svg",
+  "backgroundColor": "#070b12",
+  "foregroundColor": "#d8fff4",
+  "strongColor": "#00f5a0",
+  "weakColor": "#12352f",
+  "radarColor": "#62d9ff",
+  "growingAnimation": true,
+  "saturation": "75%",
+  "contribLightness": ["18%", "28%", "38%", "52%", "68%"],
+  "duration": "8s",
+  "hueRatio": -4
+}
