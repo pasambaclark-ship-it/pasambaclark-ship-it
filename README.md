@@ -1,7 +1,7 @@
 # `>_` Clark Pasamba
 
 <p align="center">
-  <img src="cyber-terminal-3d.svg" alt="Animated 3D-style neon hooded cyber sentinel with cascading binary and a scanning visor" width="100%">
+  <img src="cyber-terminal.svg" alt="Animated 3D-style neon hooded cyber sentinel with cascading binary and a scanning visor" width="100%">
 </p>
 
 <p align="center">
