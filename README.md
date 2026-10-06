@@ -1,7 +1,7 @@
 # `>_` Clark Pasamba
 
 <p align="center">
-  <img src="assets/cyber-terminal.svg" alt="Animated cybersecurity terminal with a glowing defender shield" width="100%">
+  <img src="cyber-terminal.svg" alt="Animated cybersecurity terminal with a glowing defender shield" width="100%">
 </p>
 
 <p align="center">
