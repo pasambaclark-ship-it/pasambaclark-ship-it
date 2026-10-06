@@ -1,7 +1,7 @@
 # `>_` Clark Pasamba
 
 <p align="center">
-  <img src="cyber-terminal.svg" alt="Animated cybersecurity terminal with a glowing defender shield" width="100%">
+  <img src="cyber-sentinel-3d.svg" alt="Animated 3D-style neon hooded cyber sentinel with cascading binary and a scanning visor" width="100%">
 </p>
 
 <p align="center">
@@ -85,13 +85,19 @@ When I’m away from code, I enjoy **video editing** and **graphic design**. I a
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pasambaclark-ship-it&hide_border=true&background=0D1117&ring=00F5A0&fire=62D9FF&currStreakLabel=00F5A0&sideLabels=C9D1D9&dates=73818D" alt="GitHub contribution streak">
 </p>
+
+## `08` &nbsp; Live Contribution Terrain
+
 <p align="center">
-  <img src="cyber-arcade-footer.svg" alt="Animated cyber arcade" width="100%">
+  <img src="profile-3d-contrib/profile-cyber.svg" alt="3D cyber-themed graph generated from my GitHub contribution history" width="100%">
 </p>
+
+<p align="center"><sub>Real GitHub contribution activity · refreshed daily by GitHub Actions</sub></p>
+
 <p align="center">
   <sub><code>SESSION ACTIVE</code> &nbsp;·&nbsp; Curiosity is the entry point. Responsible learning is the protocol.</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00A9FF,100:9D6BFF&height=3&section=footer" width="100%" alt="">
+  <img src="cyber-arcade-footer.svg" alt="Animated cyber arcade: a hooded runner jumps firewalls and collects data tokens" width="100%">
 </p>
