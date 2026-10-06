@@ -86,7 +86,7 @@ When I’m away from code, I enjoy **video editing** and **graphic design**. I a
   <img src="https://streak-stats.demolab.com?user=pasambaclark-ship-it&hide_border=true&background=0D1117&ring=00F5A0&fire=62D9FF&currStreakLabel=00F5A0&sideLabels=C9D1D9&dates=73818D" alt="GitHub contribution streak">
 </p>
 <p align="center">
-  <img src="cyber-sentinel-3d.svg" alt="Animated 3D-style neon hooded cyber sentinel with cascading binary and a scanning visor" width="100%">
+  <img src="cyber-arcade-footer.svg" alt="Animated cyber arcade" width="100%">
 </p>
 <p align="center">
   <sub><code>SESSION ACTIVE</code> &nbsp;·&nbsp; Curiosity is the entry point. Responsible learning is the protocol.</sub>
