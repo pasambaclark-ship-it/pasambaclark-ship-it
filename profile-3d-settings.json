@@ -1,14 +1,18 @@
 {
-  "type": "rainbow",
+  "type": "normal",
   "fileName": "profile-cyber.svg",
   "backgroundColor": "#070b12",
   "foregroundColor": "#d8fff4",
   "strongColor": "#00f5a0",
-  "weakColor": "#12352f",
-  "radarColor": "#62d9ff",
+  "weakColor": "#102329",
+  "radarColor": "#75eaff",
+  "contribColors": [
+    "#101923",
+    "#12352f",
+    "#087d63",
+    "#00bd86",
+    "#5bf2c0"
+  ],
   "growingAnimation": true,
-  "saturation": "75%",
-  "contribLightness": ["18%", "28%", "38%", "52%", "68%"],
-  "duration": "8s",
-  "hueRatio": -4
+  "duration": "8s"
 }
