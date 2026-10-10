@@ -2,7 +2,7 @@
   <img src="cyber-terminal.svg" alt="Animated neon cyber sentinel with binary code and a scanning visor" width="100%">
 </p>
 
-<h1 align="center">Clark Pasamba <code>//</code> Student &amp; Developer</h1>
+<h1 align="center">🛡️ Clark Pasamba <code>//</code> Student &amp; Developer ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=850&color=55E6FF&center=true&vCenter=true&width=720&lines=Curiosity+is+my+starting+point.;Building+software.+Exploring+cybersecurity.;Create+boldly.+Learn+responsibly.+Repeat." alt="Curiosity is my starting point. Building software. Exploring cybersecurity. Create boldly. Learn responsibly. Repeat.">
@@ -14,17 +14,17 @@
   <img src="https://img.shields.io/badge/%E2%9C%A6_ETHOS-RESPONSIBLE_SECURITY-B68CFF?style=for-the-badge&labelColor=101820" alt="Ethos: Responsible security">
 </p>
 
-<p align="center"><code>LEARN</code> <b>→</b> <code>BUILD</code> <b>→</b> <code>DEFEND</code> <b>→</b> <code>REPEAT</code></p>
+<p align="center"><code>01 / LEARN</code> <b>→</b> <code>02 / BUILD</code> <b>→</b> <code>03 / DEFEND</code> <b>→</b> <code>04 / REPEAT</code></p>
 
 ---
 
-## `01` &nbsp; Operator Profile
+## 🛰️ `01 / IDENTITY` &nbsp; Operator Profile
 
 I’m a hardworking student interested in how technology works—and how to make it more secure. I enjoy building software, creating visual content, and exploring cybersecurity with a responsible, defender-first mindset.
 
 I also bring leadership experience, clear communication, customer service, and adaptability to the teams I work with. I value curiosity, thoughtful collaboration, and steady improvement.
 
-## `02` &nbsp; Mission Console
+## 🎯 `02 / OBJECTIVES` &nbsp; Mission Console
 
 | Signal | Current focus |
 |:--|:--|
@@ -33,7 +33,7 @@ I also bring leadership experience, clear communication, customer service, and a
 | <img src="https://img.shields.io/badge/03-CREATE-B68CFF?style=flat-square&labelColor=101820" alt="03 Create"> | Video editing and graphic design |
 | <img src="https://img.shields.io/badge/04-COLLABORATE-FFB86C?style=flat-square&labelColor=101820" alt="04 Collaborate"> | Leadership, communication, customer service, and adaptability |
 
-## `03` &nbsp; Development Arsenal
+## ⚡ `03 / BUILD` &nbsp; Development Arsenal
 
 <p>
   <img src="https://img.shields.io/badge/C-101820?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
@@ -81,11 +81,11 @@ I also bring leadership experience, clear communication, customer service, and a
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab">
 </details>
 
-## `04` &nbsp; Offscreen
+## 🎨 `04 / CREATIVE MODE` &nbsp; Offscreen
 
 Away from the terminal, I enjoy **video editing** and **graphic design**. These creative interests help me bring a visual perspective to the things I build.
 
-## `05` &nbsp; Secure Channel
+## 📡 `05 / CONNECT` &nbsp; Secure Channel
 
 <p>
   <a href="https://www.linkedin.com/in/clark-pasamba-bb1b9940b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
@@ -95,27 +95,37 @@ Away from the terminal, I enjoy **video editing** and **graphic design**. These 
   <a href="https://discord.com/users/1554677214602203234"><img src="https://img.shields.io/badge/Discord-Message-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Message me on Discord"></a>
 </p>
 
-## `06` &nbsp; Activity Radar
+## 🧬 `06 / LIVE TELEMETRY` &nbsp; Activity Radar
+
+<p align="center">
+  <img src="https://img.shields.io/badge/▰_SYSTEM_ACTIVITY-ONLINE-56D9FF?style=for-the-badge&labelColor=101820" alt="System activity online">
+  <img src="https://img.shields.io/badge/▰_CODE_SIGNAL-STRONG-B68CFF?style=for-the-badge&labelColor=101820" alt="Code signal">
+  <img src="https://img.shields.io/badge/▰_DEFENSE_MODE-ACTIVE-00F5A0?style=for-the-badge&labelColor=101820" alt="Defense mode active">
+</p>
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pasambaclark-ship-it&show_icons=true&hide_border=true&bg_color=0d1117&title_color=56d9ff&icon_color=b68cff&text_color=c9d1d9&ring_color=00f5a0" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasambaclark-ship-it&layout=compact&hide_border=true&bg_color=0d1117&title_color=56d9ff&text_color=c9d1d9" alt="Most used languages">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=pasambaclark-ship-it&custom_title=SYSTEM%20ACTIVITY&show_icons=true&hide_border=false&border_color=00f5a0&bg_color=090e18&title_color=56d9ff&icon_color=b68cff&text_color=f1faff&ring_color=ffb86c" alt="Colorful GitHub system activity card">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasambaclark-ship-it&custom_title=CODE%20FREQUENCY&layout=compact&langs_count=5&hide_border=false&border_color=b68cff&bg_color=090e18&title_color=ff79c6&text_color=f1faff" alt="Colorful programming language activity card">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pasambaclark-ship-it&hide_border=true&background=0D1117&ring=00F5A0&fire=FFB86C&currStreakLabel=56D9FF&sideLabels=C9D1D9&dates=73818D" alt="GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com?user=pasambaclark-ship-it&hide_border=false&border=56D9FF&background=090E18&ring=00F5A0&fire=FFB86C&currStreakLabel=56D9FF&currStreakNum=F1FAFF&sideLabels=B68CFF&sideNums=56D9FF&dates=8296A8" alt="Neon GitHub contribution streak">
 </p>
 
-## `07` &nbsp; 3D Contribution Matrix
+## 🟩 `07 / CONTRIBUTION GRID` &nbsp; 3D Contribution Matrix
 
 <p align="center">
   <img src="profile-3d-contrib/profile-cyber.svg" alt="Animated 3D cyber-themed graph generated from my GitHub contribution history" width="82%">
 </p>
 
-<p align="center"><sub><code>LIVE CONTRIBUTIONS</code> &nbsp;·&nbsp; <code>NEON SIGNAL</code> &nbsp;·&nbsp; <code>DAILY REFRESH</code></sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/REAL_DATA-ON-00F5A0?style=flat-square&labelColor=101820" alt="Real contribution data active">
+  <img src="https://img.shields.io/badge/3D_RENDER-NEON_SIGNAL-56D9FF?style=flat-square&labelColor=101820" alt="3D neon render">
+  <img src="https://img.shields.io/badge/REFRESH-DAILY-B68CFF?style=flat-square&labelColor=101820" alt="Daily refresh">
+</p>
 
 <p align="center">
-  <sub><code>SESSION ACTIVE</code> &nbsp;·&nbsp; Stay curious. Build responsibly. Keep learning.</sub>
+  <sub><code>SESSION ACTIVE</code> &nbsp;·&nbsp; Stay curious <b>✦</b> Build responsibly <b>✦</b> Keep learning</sub>
 </p>
 
 <p align="center">
