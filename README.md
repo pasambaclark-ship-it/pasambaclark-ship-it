@@ -115,7 +115,7 @@ Away from the terminal, I enjoy **video editing** and **graphic design**. These 
 ## 🟩 `07 / CONTRIBUTION GRID` &nbsp; 3D Contribution Matrix
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-cyber.svg" alt="Animated 3D cyber-themed graph generated from my GitHub contribution history" width="82%">
+  <img src="profile-3d-contrib/profile-cyber.svg" alt="Animated 3D cyber-themed contribution graph in vivid teal, cyan, and neon lime" width="90%">
 </p>
 
 <p align="center">
