@@ -1,101 +1,121 @@
-# `>_` Clark Pasamba
+<p align="center">
+  <img src="cyber-terminal.svg" alt="Animated neon cyber sentinel with binary code and a scanning visor" width="100%">
+</p>
+
+<h1 align="center">Clark Pasamba <code>//</code> Student &amp; Developer</h1>
 
 <p align="center">
-  <img src="cyber-terminal.svg" alt="Animated 3D-style neon hooded cyber sentinel with cascading binary and a scanning visor" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=850&color=55E6FF&center=true&vCenter=true&width=720&lines=Curiosity+is+my+starting+point.;Building+software.+Exploring+cybersecurity.;Create+boldly.+Learn+responsibly.+Repeat." alt="Curiosity is my starting point. Building software. Exploring cybersecurity. Create boldly. Learn responsibly. Repeat.">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=680&lines=Student+%2F+Developer+%2F+Cybersecurity+Enthusiast;Building+with+curiosity.+Learning+to+defend.;Code+thoughtfully.+Create+boldly.+Learn+always." alt="Student, developer, and cybersecurity enthusiast — building with curiosity and learning to defend">
+  <img src="https://img.shields.io/badge/%E2%97%88_FOCUS-CYBERSECURITY-00F5A0?style=for-the-badge&labelColor=101820" alt="Focus: Cybersecurity">
+  <img src="https://img.shields.io/badge/%E2%8C%98_MODE-ALWAYS_LEARNING-56D9FF?style=for-the-badge&labelColor=101820" alt="Mode: Always learning">
+  <img src="https://img.shields.io/badge/%E2%9C%A6_ETHOS-RESPONSIBLE_SECURITY-B68CFF?style=for-the-badge&labelColor=101820" alt="Ethos: Responsible security">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/◈_FOCUS-CYBERSECURITY-00F5A0?style=for-the-badge&labelColor=0B151E" alt="Focus: Cybersecurity">
-  <img src="https://img.shields.io/badge/⌘_MODE-ALWAYS_LEARNING-62D9FF?style=for-the-badge&labelColor=0B151E" alt="Mode: Always learning">
-  <img src="https://img.shields.io/badge/⚑_ETHOS-RESPONSIBLE_SECURITY-BB91FF?style=for-the-badge&labelColor=0B151E" alt="Ethos: Responsible security">
-</p>
+<p align="center"><code>LEARN</code> <b>→</b> <code>BUILD</code> <b>→</b> <code>DEFEND</code> <b>→</b> <code>REPEAT</code></p>
 
 ---
 
 ## `01` &nbsp; Operator Profile
 
-I’m a hardworking student interested in the systems and ideas behind technology. I enjoy writing software, shaping visual content, and learning how digital systems can be made more secure. My current cybersecurity journey is driven by curiosity, responsible practice, and a defender’s mindset.
+I’m a hardworking student interested in how technology works—and how to make it more secure. I enjoy building software, creating visual content, and exploring cybersecurity with a responsible, defender-first mindset.
 
-Alongside my technical interests, I bring leadership experience and strengths in communication, customer service, and adaptability. I value thoughtful collaboration, steady improvement, and work that is both useful and well-crafted.
+I also bring leadership experience, clear communication, customer service, and adaptability to the teams I work with. I value curiosity, thoughtful collaboration, and steady improvement.
 
-## `02` &nbsp; Mission Areas
+## `02` &nbsp; Mission Console
 
-| Domain | Exploring |
+| Signal | Current focus |
 |:--|:--|
-| `DEFENSE` | Security fundamentals, secure systems, and a responsible defender’s mindset |
-| `BUILD` | Programs and web experiences, developed through hands-on learning |
-| `CREATE` | Video editing and graphic design, with an eye for detail |
-| `COLLABORATE` | Leadership, communication, customer service, and adaptability |
+| <img src="https://img.shields.io/badge/01-DEFEND-00F5A0?style=flat-square&labelColor=101820" alt="01 Defend"> | Security fundamentals, secure systems, and responsible cybersecurity learning |
+| <img src="https://img.shields.io/badge/02-BUILD-56D9FF?style=flat-square&labelColor=101820" alt="02 Build"> | Programs and web experiences made through hands-on practice |
+| <img src="https://img.shields.io/badge/03-CREATE-B68CFF?style=flat-square&labelColor=101820" alt="03 Create"> | Video editing and graphic design |
+| <img src="https://img.shields.io/badge/04-COLLABORATE-FFB86C?style=flat-square&labelColor=101820" alt="04 Collaborate"> | Leadership, communication, customer service, and adaptability |
 
-## `03` &nbsp; Development Toolkit
+## `03` &nbsp; Development Arsenal
 
 <p>
-  <img src="https://img.shields.io/badge/C-101820?style=flat-square&logo=c&logoColor=A8B9CC" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-101820?style=flat-square&logo=c%2B%2B&logoColor=00599C" alt="C++">
-  <img src="https://img.shields.io/badge/Python-101820?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-101820?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-101820?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/HTML5-101820?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-101820?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-101820?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/C-101820?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-101820?style=for-the-badge&logo=c%2B%2B&logoColor=56D9FF" alt="C++">
+  <img src="https://img.shields.io/badge/Python-101820?style=for-the-badge&logo=python&logoColor=FFD166" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-101820?style=for-the-badge&logo=javascript&logoColor=FFE66D" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-101820?style=for-the-badge&logo=typescript&logoColor=56D9FF" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML5-101820?style=for-the-badge&logo=html5&logoColor=FF8C69" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-101820?style=for-the-badge&logo=css3&logoColor=56D9FF" alt="CSS3">
+  <img src="https://img.shields.io/badge/React-101820?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </p>
 
-## `04` &nbsp; Extended Toolkit
-
 <details>
-  <summary><strong>View the broader toolkit</strong></summary>
+  <summary><strong>▸ Open extended toolkit</strong></summary>
 
   <br>
 
   **Development & data**  
-  PowerShell · Swift · GraphQL · FastAPI · Node.js · React Query · Tailwind CSS · Pandas · Mocha · Apache Ant
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" alt="Mocha">
+  <img src="https://img.shields.io/badge/Apache_Ant-A81C7D?style=flat-square&logo=apacheant&logoColor=white" alt="Apache Ant">
 
   **Cloud, databases & platforms**  
-  AWS · Google Cloud · Oracle · Firebase · PostgreSQL · MongoDB · MySQL · Supabase · Flutter
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=101820" alt="Firebase">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=101820" alt="Supabase">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
 
-  **Design & version control**  
-  Canva · SketchUp · Git · GitLab
+  **Creative & version control**  
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white" alt="SketchUp">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab">
 </details>
 
-## `05` &nbsp; Offscreen
+## `04` &nbsp; Offscreen
 
-When I’m away from code, I enjoy **video editing** and **graphic design**. I also bring a people-first perspective shaped by leadership, customer service, and working with different teams.
+Away from the terminal, I enjoy **video editing** and **graphic design**. These creative interests help me bring a visual perspective to the things I build.
 
-## `06` &nbsp; Open a Channel
+## `05` &nbsp; Secure Channel
 
 <p>
-  <a href="https://www.linkedin.com/in/clark-pasamba-bb1b9940b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-  <a href="https://medium.com/@Clark_P"><img src="https://img.shields.io/badge/Medium-Read%20my%20writing-12100E?style=flat-square&logo=medium&logoColor=white" alt="Find me on Medium"></a>
-  <a href="mailto:pasambaclark@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email me"></a>
-  <a href="https://www.facebook.com/clarkpasamba"><img src="https://img.shields.io/badge/Facebook-Connect-0866FF?style=flat-square&logo=facebook&logoColor=white" alt="Find me on Facebook"></a>
-  <a href="https://discord.com/users/1554677214602203234"><img src="https://img.shields.io/badge/Discord-Message-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Message me on Discord"></a>
+  <a href="https://www.linkedin.com/in/clark-pasamba-bb1b9940b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  <a href="https://medium.com/@Clark_P"><img src="https://img.shields.io/badge/Medium-Writing-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Find me on Medium"></a>
+  <a href="mailto:pasambaclark@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+  <a href="https://www.facebook.com/clarkpasamba"><img src="https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Find me on Facebook"></a>
+  <a href="https://discord.com/users/1554677214602203234"><img src="https://img.shields.io/badge/Discord-Message-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Message me on Discord"></a>
 </p>
 
-## `07` &nbsp; Activity Monitor
+## `06` &nbsp; Activity Radar
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pasambaclark-ship-it&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=00f5a0&text_color=c9d1d9&ring_color=00f5a0" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasambaclark-ship-it&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5a0&text_color=c9d1d9" alt="Most used languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pasambaclark-ship-it&show_icons=true&hide_border=true&bg_color=0d1117&title_color=56d9ff&icon_color=b68cff&text_color=c9d1d9&ring_color=00f5a0" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasambaclark-ship-it&layout=compact&hide_border=true&bg_color=0d1117&title_color=56d9ff&text_color=c9d1d9" alt="Most used languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pasambaclark-ship-it&hide_border=true&background=0D1117&ring=00F5A0&fire=62D9FF&currStreakLabel=00F5A0&sideLabels=C9D1D9&dates=73818D" alt="GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com?user=pasambaclark-ship-it&hide_border=true&background=0D1117&ring=00F5A0&fire=FFB86C&currStreakLabel=56D9FF&sideLabels=C9D1D9&dates=73818D" alt="GitHub contribution streak">
 </p>
 
-## `08` &nbsp; 3D Contribution Matrix
+## `07` &nbsp; 3D Contribution Matrix
 
 <p align="center">
   <img src="profile-3d-contrib/profile-cyber.svg" alt="Animated 3D cyber-themed graph generated from my GitHub contribution history" width="82%">
 </p>
 
-<p align="center"><sub>REAL CONTRIBUTIONS &nbsp;·&nbsp; NEON DEFENDER PALETTE &nbsp;·&nbsp; AUTO-REFRESHED</sub></p>
+<p align="center"><sub><code>LIVE CONTRIBUTIONS</code> &nbsp;·&nbsp; <code>NEON SIGNAL</code> &nbsp;·&nbsp; <code>DAILY REFRESH</code></sub></p>
 
 <p align="center">
-  <sub><code>SESSION ACTIVE</code> &nbsp;·&nbsp; Curiosity is the entry point. Responsible learning is the protocol.</sub>
+  <sub><code>SESSION ACTIVE</code> &nbsp;·&nbsp; Stay curious. Build responsibly. Keep learning.</sub>
 </p>
 
 <p align="center">
