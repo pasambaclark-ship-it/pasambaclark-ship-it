@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cyber-terminal.svg" alt="Animated neon cyber sentinel with binary code and a scanning visor" width="100%">
+  <img src="cyber-terminal.svg" alt="Animated neon cyber sentinel with binary code and a scanning visor." width="100%">
 </p>
 
 <h1 align="center">🛡️ Clark Pasamba <code>//</code> Student &amp; Developer ⚡</h1>
